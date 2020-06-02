@@ -117,6 +117,7 @@
   text-transform: lowercase;
   padding: 12px 35px;
   font-size: 24px;
+  text-align: center;
   font-weight: bold;
 }
 body {
@@ -382,7 +383,9 @@ a:active {
   font-size: 32px;
   line-height: 45px;
 }
-
+.difcl {
+  align-self: center;
+}
 .btn {
   border-radius: 0;
 }
