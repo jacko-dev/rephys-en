@@ -1,6 +1,7 @@
 /*--
     Common Css
 --*/
+
 .titled {
   margin-left: auto;
   margin-right: auto;
@@ -397,6 +398,7 @@ a:active {
   background-image: absolute-gradient(bottom, rgba(53, 62, 99, 0.5) 5%, rgba(255, 239, 206, 0.25) 100%);
   margin: 0%;
 }
+
 .imagepoop {
   align-content: center;
  margin-left:auto;
