@@ -5,6 +5,9 @@
   0%{top:-200px;}
   100%{top:0px;}
 }
+.btn btn-secondary btn-lg disabled img {
+  opacity: 0.25;
+}
 .bigfart {
     font-family: "Reem Kufi", "sans-serif";
   text-transform: lowercase;
